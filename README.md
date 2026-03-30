@@ -160,3 +160,7 @@ The `test_pubblici/` folder contains test cases with their respective expected o
     │       ├── edge_cases.txt.result
     │       └── ...
     └── README.md
+
+## Evaluation
+
+> This project received a final grade of **30/30**.
