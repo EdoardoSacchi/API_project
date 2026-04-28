@@ -4,7 +4,7 @@ Final project for the **Algorithms and Principles of Computer Science** course (
 
 This program manages a map based on a hexagonal grid, supporting the creation of direct air routes, dynamic cost modification, and the calculation of the minimum cost path using **Dijkstra's** algorithm.
 
-The full project specification is available in the [`specifica-progetto-24-25.pdf`](specifica-progetto-24-25.pdf) file.
+The full project specification is available in the [`project-specifications-24-25.pdf`](project-specifications-24-25.pdf) file.
 
 ---
 
